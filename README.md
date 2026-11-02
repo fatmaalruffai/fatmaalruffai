@@ -51,7 +51,6 @@ Two short home-learning missions for younger learners: build series and parallel
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![three.js](https://img.shields.io/badge/three.js-000000?logo=threedotjs&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
-![AI-assisted development](https://img.shields.io/badge/AI--assisted%20development-Claude-6B4FBB)
 
 ---
 
